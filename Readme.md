@@ -61,7 +61,7 @@
 #### [Binary Search](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search)
 [004.Median-of-Two-Sorted-Arrays](https://github.com/wisdompeak/LeetCode/tree/master/Priority_Queue/004.Median-of-Two-Sorted-Arrays) (H)   
 [153.Find-Minimum-in-Rotated-Sorted-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/153.Find-Minimum-in-Rotated-Sorted-Array) (M+)  
-[154.Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/154.Find-Minimum-in-Rotated-Sorted-Array-II) (H-)         
+[154.Find-Minimum-in-Rotated-Sorted-Array-II](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/154.Find-Minimum-in-Rotated-Sorted-Array-II) (H-)         
 [033.Search-in-Rotated-Sorted-Array](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/033.Search-in-Rotated-Sorted-Array) (M)   
 [081.Search-in-Rotated-Sorted-Array-II](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/081.Search-in-Rotated-Sorted-Array-II) (M)      
 [034.Search-for-a-Range](https://github.com/wisdompeak/LeetCode/tree/master/Binary_Search/034.Search-for-a-Range) (M)  
@@ -1132,7 +1132,7 @@
 [2061.Number-of-Spaces-Cleaning-Robot-Cleaned](https://github.com/wisdompeak/LeetCode/tree/master/Simulation/2061.Number-of-Spaces-Cleaning-Robot-Cleaned) (M)    
 [2069.Walking-Robot-Simulation-II](https://github.com/wisdompeak/LeetCode/tree/master/Simulation/2069.Walking-Robot-Simulation-II) (M+)      
 
-#### [Others](https://github.com/wisdompeak/LeetCode/tree/master/Others)  
+#### [Others](https://github.com/wisdompeak/LeetCode/tree/master/Others)  
 [007.Reverse-Integer](https://github.com/wisdompeak/LeetCode/tree/master/Others/007.Reverse-Integer) (M)    
 [048.Rotate-Image](https://github.com/wisdompeak/LeetCode/tree/master/Others/048.Rotate-Image) (M+)    
 [065.Valid-Number](https://github.com/wisdompeak/LeetCode/tree/master/Others/065.Valid-Number) (H-)   
@@ -1227,7 +1227,7 @@
 [LCP36.最多牌组数](https://github.com/wisdompeak/LeetCode/tree/master/LCCUP/2021Spring/LCP36.%E6%9C%80%E5%A4%9A%E7%89%8C%E7%BB%84%E6%95%B0)  
 [LCP43.十字路口的交通](https://github.com/wisdompeak/LeetCode/tree/master/LCCUP/2021Fall/LCP43.%E5%8D%81%E5%AD%97%E8%B7%AF%E5%8F%A3%E7%9A%84%E4%BA%A4%E9%80%9A)     
 
-#### [Templates](https://github.com/wisdompeak/LeetCode/tree/master/Template)  
+#### [Templates](https://github.com/wisdompeak/LeetCode/tree/master/Template)  
 [Math](https://github.com/wisdompeak/LeetCode/tree/master/Template/Math)  
 [Binary_Index_Tree](https://github.com/wisdompeak/LeetCode/tree/master/Template/Binary_Index_Tree)  
 [Segment Tree](https://github.com/wisdompeak/LeetCode/tree/master/Template/SegmentTree)  
@@ -1239,3 +1239,6 @@
 [二维子矩阵求和](https://github.com/wisdompeak/LeetCode/tree/master/Template/Sub_Rect_Sum_2D)    
 [二维差分数组](https://github.com/wisdompeak/LeetCode/tree/master/Template/Diff_Array_2D)    
 [CPP_LANG](https://github.com/wisdompeak/LeetCode/tree/master/Template/CPP_LANG)
+
+
+
